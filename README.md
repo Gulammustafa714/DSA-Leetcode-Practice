@@ -25,7 +25,7 @@ Topics Covered
 Problems Solved
 
 Problem| Topic| Solution
-Palindrome Number| Mathematics| "palindrome_number.cpp"
+Palindrome Number| Mathematics| "palindrome_no.cpp"
 
 Goal
 
